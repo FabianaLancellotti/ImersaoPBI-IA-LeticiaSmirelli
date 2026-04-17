@@ -32,7 +32,8 @@ Neste repositório, você encontrará soluções de Business Intelligence aplica
 ## 🚀 Como Explorar os Dashboards
 Para explorar os dashboards, você pode baixar os arquivos `.pbix` localizados dentro de cada pasta e abri-los no Power BI Desktop.
 
-
-
 ---
-*Este repositório é um registro da minha evolução técnica e busca contínua por excelência na área de Dados.*
+
+## 👩‍💻 Autora
+Fabiana Gomes Lancellotti  
+*Projeto realizado como parte da minha transição de carreira para Data Analytics.*
